@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN">
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1,user-scalable=no" />    
+        <script type='text/javascript' src="jquery-1.7.2.min.js"></script>
+        <style type='text/css'>
+            body {
+                font-family: Arial;
+                font-size: 10px;
+                color: black;
+                background-color:clear;
+                opacity: 1.0;
+            }
+            .title {
+                font-family: Helvetica;
+                font-size: 20px;
+                color: #67281d;
+                line-height: 16px;
+                font-weight: bold;
+                opacity: 1.0;
+                text-shadow: #f3ecd5 1px 1px 1px;
+            }
+            .topic {
+                font-family: Helvetica;
+                font-size: 13px;
+                color: #67281d;
+                font-weight: bold;
+                opacity: 1.0;
+                text-shadow: #f3ecd5 1px 1px 1px;
+            }
+            a:link {
+                color: black;
+            }
+            a:hover {
+                color: black;
+            }
+            a:visited {
+                color: black;
+            }
+            a:active {
+                color: black;
+            }
+        </style>
+ 
+        <script type="text/javascript">
+            
+            function setVersion(v) {
+                $('#versionNumber').html(v);
+            }
+
+            function appendFreeToTitle() {
+                var title = $('#title').html();
+                $('#title').html(title + ' Free');
+            }
+            
+            $(document).ready(function() {
+            });
+            
+        </script>
+</head>
+    <body>
+        <br/>
+        <p align='center'>
+            <span id='title' class='title'>The Rebus Show</span><br/>
+            <span class='topic'>Version </span><span id='versionNumber' class='topic'>KB</span>
+            <br/>
+            Robin Soper: Sound Design & Music Composition <a href='robin.web'>Web</a> <a href='mailto://robin@kadencecreative.com'>Email</a><br/>
+            Kelly: Project Muse<br/>
+            Copyright 2012 James Cotner and Norman Basham<br/>
+            <a href="https://twitter.com/ilogophile" class="twitter-follow-button" data-show-count="false">Follow Us On Twitter</a> and <a href="http://www.facebook.com/TheRebusShow">Like Us On Facebook</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </p>
+        
+    </body>
+</html>

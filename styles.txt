@@ -1,0 +1,315 @@
+Any line without an equal sign is considered to be a comment. Comments can be
+put anywhere.
+alignment left(0) center(1) right(2)
+yes/true(1) no/false(0) e.g. visible, autosize, editable
+
+font.not.found = Baskerville-Bold
+
+default.label.height.pad = 17
+default.label.height.phone = 14
+default.label.font = Copperplate
+default.label.size.pad = 24
+default.label.size.phone = 20
+default.label.alignment = 0
+default.label.color = #000000
+default.label.backgroundcolor = #FFFFFFFF
+default.label.shadowcolor = #00000066
+default.label.shadowoffsetx = 0
+default.label.shadowoffsety = 1
+default.label.autosize = 1
+default.label.alpha = 1.0
+default.label.visible = 1
+default.label.editable = 0
+
+default.button.font = Copperplate
+default.button.size.pad = 30
+default.button.size.phone = 20
+default.button.alignment = 0
+default.button.color = #eeeeee
+default.button.backgroundcolor = #000000ee
+default.button.shadowcolor = #00000066
+default.button.shadowoffsetx = -1
+default.button.shadowoffsety = -1
+default.button.autosize = 1
+default.button.alpha = 1.0
+default.button.visible = 1
+default.button.editable = 0
+
+timed.message.font = Copperplate
+timed.message.size.pad = 16
+timed.message.size.phone = 16
+timed.message.alignment = 1
+timed.message.color = #FFFFFFFF
+timed.message.backgroundcolor = #00000000
+timed.message.shadowcolor = #00000066
+timed.message.shadowoffsetx = 0
+timed.message.shadowoffsety = 1
+timed.message.autosize = 0
+timed.message.alpha = 1.0
+timed.message.visible = 1
+timed.message.editable = 0
+
+loading.view.backgroundcolor = #444444CC
+loading.message.font = Helvetica-Bold
+loading.message.size.pad = 15
+loading.message.size.phone = 13
+loading.message.alignment = 1
+loading.message.color = #FFFFFFFF
+loading.message.backgroundcolor = #00000000
+loading.message.shadowcolor = #00000000
+loading.message.shadowoffsetx = 0
+loading.message.shadowoffsety = 0
+loading.message.autosize = 1
+loading.message.alpha = 1.0
+loading.message.visible = 1
+loading.message.editable = 0
+
+---- REBUS ----
+
+debug.score.cover.triggers.next.puzzle = 0
+menu.modules = play, scores, settings, about, games
+
+stage.about.webview.rect.phone = 24, 14, 433, 124
+stage.about.webview.rect.pad = 50, 57, 924, 269
+
+
+---- SIGNS
+stage.manager.sign.button.skip.xy.phone = 102, 130
+stage.manager.sign.button.resume.xy.phone = 292, 130
+stage.manager.sign.about.button.xy.phone = 203, 142
+stage.manager.sign.lesson.button.xy.phone = 352, 143
+stage.manager.sign.button.later.xy.phone = 102, 130
+
+stage.manager.sign.button.skip.xy.pad = 324, 330
+stage.manager.sign.button.resume.xy.pad = 524, 330
+stage.manager.sign.about.button.xy.pad = 432, 330
+stage.manager.sign.lesson.button.xy.pad = 751, 344
+stage.manager.sign.button.later.xy.pad = 324, 330
+
+stage.manager.sign.save.label.height.pad = 40
+stage.manager.sign.save.label.height.phone = 14
+stage.manager.sign.save.label.font = Copperplate
+stage.manager.sign.save.label.size.pad = 32
+stage.manager.sign.save.label.size.phone = 14
+stage.manager.sign.save.label.alignment = 1
+stage.manager.sign.save.label.color = #000000
+stage.manager.sign.save.label.backgroundcolor = #FFFFFFFF
+stage.manager.sign.save.label.shadowcolor = #00000066
+stage.manager.sign.save.label.shadowoffsetx = 0
+stage.manager.sign.save.label.shadowoffsety = 1
+stage.manager.sign.save.label.autosize = 0
+stage.manager.sign.save.label.alpha = 1.0
+stage.manager.sign.save.label.visible = 1
+stage.manager.sign.save.label.editable = 0
+
+stage.manager.sign.button.font = Copperplate
+stage.manager.sign.button.size.pad = 24
+stage.manager.sign.button.size.phone = 14
+stage.manager.sign.button.alignment = 0
+stage.manager.sign.button.color = #492800ee
+stage.manager.sign.button.backgroundcolor = #00000000
+stage.manager.sign.button.shadowcolor = #00000066
+stage.manager.sign.button.shadowoffsetx = 1
+stage.manager.sign.button.shadowoffsety = 1
+stage.manager.sign.button.autosize = 0
+stage.manager.sign.button.alpha = 1.0
+stage.manager.sign.button.visible = 0
+stage.manager.sign.button.editable = 0
+
+---- GAMES
+
+stage.games.spaceship.xy.phone = 314, 125
+stage.games.cryptogram.rect.phone = 128, 72, 100, 44
+stage.games.crypto-families.rect.phone = 340, 72, 100, 44
+stage.games.quotefalls.rect.phone = 340, 125, 100, 44
+stage.games.sudoku.rect.phone = 128, 125, 100, 44
+
+stage.games.spaceship.xy.pad = 670, 300
+stage.games.cryptogram.rect.pad = 273, 197, 214, 58
+stage.games.crypto-families.rect.pad = 725, 197, 214, 58
+stage.games.quotefalls.rect.pad = 725, 325, 214, 58
+stage.games.sudoku.rect.pad = 273, 325, 214, 58
+
+---- MENU
+control.panel.menu.playbutton.xy.phone = 196, 26
+control.panel.menu.scoresbutton.xy.phone = 337, 25
+control.panel.menu.aboutbutton.xy.phone = 135, 62
+control.panel.menu.settingsbutton.xy.phone = 272, 62
+control.panel.menu.gamesbutton.xy.phone = 70, 26
+control.panel.menu.upgradebutton.xy.phone = 337, 25
+
+control.panel.menu.playbutton.xy.pad = 418, 67
+control.panel.menu.scoresbutton.xy.pad = 722, 85
+control.panel.menu.aboutbutton.xy.pad = 296, 156
+control.panel.menu.settingsbutton.xy.pad = 586, 156
+control.panel.menu.gamesbutton.xy.pad = 160, 85
+control.panel.menu.upgradebutton.xy.pad = 722, 85
+
+---- PLAY
+
+keyboard.answer.distance.between.letters.phone = 1
+keyboard.answer.decoration.width.phone = 474
+keyboard.answer.decoration.fudge.phone = 0
+keyboard.answer.selector.x.offset.phone = 2
+keyboard.answer.space.width.phone = 13
+keyboard.answer.xy.phone = 4, 19
+keyboard.answer.selector.top.phone = 8
+keyboard.help.xy.phone = 394, 44
+keyboard.help.button.xy.phone = 409, 73
+keyboard.keys.xy.phone = 73, 44
+keyboard.performance.knob.up.xy.phone = 72, 61
+keyboard.performance.knob.down.xy.phone = 20, 61
+keyboard.performance.xy.phone = 9, 43
+keyboard.performance.meter.point.xy.phone = 5, 26
+keyboard.performance.meter.cover.xy.phone = 3, 26
+keyboard.performance.glass.xy.phone = 1, 24
+
+keyboard.answer.distance.between.letters = 2
+decoration's width for answer
+keyboard.answer.decoration.width.pad = 908
+deocration's off center compensation
+keyboard.answer.decoration.fudge.pad = -8
+keyboard.answer.space.width.pad = 32
+
+keyboard.answer.xy.pad = 54, 65
+keyboard.answer.selector.top.pad = 48
+keyboard.answer.selector.x.offset.pad = 49
+keyboard.help.xy.pad = 808, 122
+keyboard.help.button.xy.pad = 837, 171
+keyboard.keys.xy.pad = 199, 119
+keyboard.performance.knob.up.xy.pad = 190, 151
+keyboard.performance.knob.down.xy.pad = 97, 151
+
+keyboard.performance.xy.pad = 76, 124
+keyboard.performance.meter.point.xy.pad = 8, 43
+keyboard.performance.meter.cover.xy.pad = 2, 40
+keyboard.performance.glass.xy.pad = 1, 38
+
+0 is centered 1 is bottom
+stage.play.hint.label.position = 0
+
+stage.play.hint.label.height.pad = 32
+stage.play.hint.label.height.phone = 32
+stage.play.hint.label.size.pad = 32
+stage.play.hint.label.size.phone = 20
+stage.play.hint.label.alignment = 1
+stage.play.hint.label.color = #000000
+stage.play.hint.label.backgroundcolor = #00000000
+stage.play.hint.label.shadowcolor = #00000066
+stage.play.hint.label.shadowoffsetx = 0
+stage.play.hint.label.shadowoffsety = 1
+stage.play.hint.label.font = Copperplate
+stage.play.hint.label.autosize = 1
+stage.play.hint.label.alpha = 1.0
+stage.play.hint.label.visible = 1
+stage.play.hint.label.editable = 0
+
+stage.play.shadow.color = #331e0f
+stage.play.shadow.offset.horizontal = 1
+stage.play.shadow.offset.vertical = 1
+stage.play.shadow.opacity = 0.7
+stage.play.shadow.radius = 2.0
+
+---- SCORES
+scores.achievement.scale.pad = 0.84
+scores.achievement.scale.phone = 0.45
+
+stage.scores.achievement.button.xy.phone = 360, 138
+stage.scores.leaderboard.button.xy.phone = 260, 138
+stage.scores.badge.xy.phone = 309, 31
+#stage.scores.badge.total.xy.phone is the center point
+stage.scores.badge.total.xy.phone = 353, 98
+
+stage.scores.current.achievement.width.pad = 73
+stage.scores.current.achievement.height.pad = 94
+stage.scores.current.achievement.xy.pad = 522, 230
+stage.scores.achievement.button.xy.pad = 113, 381
+stage.scores.leaderboard.button.xy.pad = 285, 381
+stage.scores.badge.xy.pad = 674, 68
+#stage.scores.badge.total.xy.pad is the center point
+stage.scores.badge.total.xy.pad = 756, 192
+
+---- SETTINGS
+slider color only works on iOS 5
+stage.manager.sign.music.volume.color = #493c2b
+stage.manager.sign.music.volume.thumb.color = #443220
+
+stage.manager.sign.sound.button.xy.phone = 323, 48
+stage.manager.sign.music.volume.button.rect.phone = 240, 83, 120, 17
+stage.manager.sign.incorrect.button.xy.phone = 323, 108
+stage.manager.sign.tracking.button.xy.phone = 323, 138
+
+stage.manager.sign.sound.button.xy.pad = 668, 135
+stage.manager.sign.music.volume.button.rect.pad = 507, 215, 255, 23
+stage.manager.sign.incorrect.button.xy.pad = 668, 265
+stage.manager.sign.tracking.button.xy.pad = 668, 331
+
+---- SOLVED
+
+control.panel.solved.achievement.xy.phone =  195, 35
+control.panel.solved.main.menu.xy.phone = 389, 41
+control.panel.solved.next.game.xy.phone = 320, 41
+control.panel.solved.time.xy.phone = 106, 118
+control.panel.solved.rating.xy.phone = 329, 74
+control.panel.solved.email.xy.phone = 416, 111
+control.panel.solved.facebook.xy.phone = 359, 111
+control.panel.solved.print.xy.phone =  388, 111
+control.panel.solved.twitter.xy.phone =  331, 111
+
+solved.score.column1.x.phone = 132
+solved.score.column2.x.phone = 161
+solved.score.row1.y.phone = 61
+solved.score.row2.y.phone = 80
+solved.score.alpha.phone = 1.0
+solved.achievement.score.alpha.phone = 1.0
+solved.achievement.score.y.phone = 94
+
+solved.total.y.pad = 233
+solved.total.y.phone = 98
+solved.achievement.scale.pad = 1.0
+solved.achievement.scale.phone = 0.45
+
+control.panel.solved.achievement.xy.pad =  413, 90
+control.panel.solved.main.menu.xy.pad = 841, 103
+control.panel.solved.next.game.xy.pad = 691, 103
+control.panel.solved.email.xy.pad = 920, 256
+control.panel.solved.print.xy.pad =  850, 256
+control.panel.solved.twitter.xy.pad =  700, 256
+control.panel.solved.facebook.xy.pad = 772, 256
+control.panel.solved.time.xy.pad = 192, 274
+control.panel.solved.rating.xy.pad = 715, 179
+
+solved.score.column1.x.pad = 273
+solved.score.column2.x.pad = 326
+solved.score.row1.y.pad = 154
+solved.score.row2.y.pad = 192
+solved.score.alpha.pad = 1.0
+solved.achievement.score.alpha.pad = 1.0
+solved.achievement.score.y.pad = 222
+
+solved.solution.label.rect.phone = 0, 9, 480, 37
+solved.solution.label.rect.pad = 0, 47, 1024, 50
+solved.solution.label.font = Copperplate
+solved.solution.label.size.phone = 17
+solved.solution.label.size.pad = 44
+solved.solution.label.color = #fdf8eb
+solved.solution.label.shadowcolor = #00000066
+solved.solution.label.shadowoffsetx = 1
+solved.solution.label.shadowoffsety = 1
+solved.solution.label.alignment = 1
+solved.solution.label.autosize = 1
+solved.solution.label.alpha = 1.0
+solved.solution.label.visible = 1
+solved.solution.label.editable = 0
+solved.solution.label.backgroundcolor = #FFFFFF00
+
+---- FREE
+
+stage.upgrade.rebus.rect.phone =  146,138, 186, 44
+stage.upgrade.rebus.rect.pad = 324, 344, 375, 72
+stage.manager.sign.upgrade.now.button.rect.phone = 283, 134, 85, 34
+stage.manager.sign.upgrade.later.button.rect.phone = 117, 134, 85, 34
+stage.manager.sign.upgrade.now.button.rect.pad = 610, 333, 177, 62
+stage.manager.sign.upgrade.later.button.rect.pad = 245, 333, 177, 62
+solved.update.button.rect.phone = 316, 66, 141, 28
+solved.update.button.rect.pad = 682, 163, 306, 56

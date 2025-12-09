@@ -1,0 +1,33 @@
+Compress puzzles:  /Applications/Development/pngquant -f -ext .png 4 *.png
+2x146 puzzles regular and retina 70MB uncompressed 20MB compressed
+
+Remove view next puzzle and return functionality of score cover. Search on //  REMOVE THIS
+Set debug.score.cover.triggers.next.puzzle = 0
+
+Number compression couldn't be done with command line, required ImageAlpha
+2x33 number images 6MB uncompressed 300K compressed
+
+Universal to Lite
+
+giles@gilest.org
+apple@arstechnica.com
+appreviews@smokingapples.com
+contact@appstoreapps.com
+craiggrannell@googlemail.com
+damon@razorianfly.com
+ifanzine@gmail.com
+james@theappera.com
+Kieran.alger@futurenet.com
+mike@crazymikesapps.com
+paul@appgamer.net
+peter.astakov@gmail.com
+reviews@appmodo.com
+reviews@iphoneincanada.ca
+reviews@pocketgamer.co.uk
+robin@robinparrish.com
+tips@razorianfly.com
+tips@toucharcade.com
+walt@allthingsd.com
+robin@appadvice.com
+ipad@appstorm.net
+

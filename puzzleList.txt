@@ -1,0 +1,202 @@
+67	Dog Tag
+42	Cat Burglar
+147	Pirates Ship
+41	Cash Cow
+81	Eye Candy
+106	iPod
+53	Cook The Books
+49	Club Sandwich
+155	Push And Shove
+146	Pinball Wizard
+134	Olive Oil
+145	Piece Of Cake
+191	Wagon Train
+154	Puppy Love
+104	How Sweet
+38	Carbon Copy
+135	One Liner
+100	Home On The Range
+136	One Trick Pony
+99	Hippopotamus
+80	Extra Baggage
+166	Scratch The Surface
+193	Welcome Home
+127	Musical Chairs
+116	Lady And The Tramp
+107	James Taylor
+43	Catastrophe
+144	Permission
+132	Nosedive
+120	Log Cabin
+149	Plain Spoken
+123	Made In China
+86	First Date
+73	Efficiency
+112	Keep Up
+163	Rock And Roll
+69	Drop A Bombshell
+91	Forty Winks
+119	Let Us Pray
+45	Chance Meeting
+17	Bean Counter
+171	So Funny It Hurts
+131	Newspaperman
+121	Love Shack
+192	Weight Watchers
+78	Excellent
+158	Race Track
+169	Sea Lion
+142	Palm Reader
+148	Pizza Pie
+63	Divest
+57	Crime And Punishment
+47	Circle The Wagons
+126	Michelangelo
+16	Be Nice To Others
+95	Grain Of Salt
+151	Pomegranate
+96	Ground Ball
+13	Barrel Of Monkeys
+194	When Pigs Fly
+103	House Of Cards
+58	Cry Wolf
+110	Jump Ship
+97	Have A Blast
+143	Penmanship
+70	Each To Their Own
+40	Carpetbagger
+102	Hot Pursuit
+137	Open Season
+0	A Hard Days Night
+55	Couch Potato
+12	Bare Your Heart
+2	All By Myself
+98	Headline News
+60	Day And Night
+20	Bend Someones Ear
+88	Fond Of You
+125	Manny Moe And Jack
+5	Army Corp Veteran
+1	Add Insult To Injury
+160	Relationship
+25	Bit Player
+83	Fall Into The Gap
+82	Facebook
+4	Armchair Quarterback
+44	Caterpillar
+108	Julia Child
+190	Turn The Tables
+111	Keep On Trucking
+175	Sticking Point
+185	Tight Squeeze
+114	Keep Your Eyes Peeled
+183	Throw In The Towel
+29	Box Seats
+87	Fly By Night
+33	Bullpen
+59	Cybill Shepherd
+89	Forest Fires
+184	Tiger Woods
+22	Bird Brain
+141	Overtime Pay
+66	Buck Stops Here
+34	Bumble Bees
+115	Kitchen Cupboard
+30	Boy Band
+128	My Sweet
+181	Teddy Bear
+178	Sunday Driver
+85	First Class Mail
+19	Belief System
+113	Keep Your Chin Up
+31	Brain Storming
+39	Carpe Diem
+23	Bird Watching
+94	Glass Ceiling
+162	Ride Shotgun
+46	Change The World
+10	Bar Fly
+21	Bill Of Rights
+71	Eagle Eyes
+54	Corn Whiskey
+109	Jump On The Wagon
+122	Lunar Eclipse
+179	Sunflower
+164	Roller Derby Queen
+159	Ramshackle
+105	Idle Hands
+117	Ladybug
+140	Over The Rainbow
+168	Sea Legs
+35	Butterfingers
+180	Teachers Pet
+138	Organ Donor
+48	Club Member
+14	Basket Case
+75	Embankment
+7	Back To Nature
+157	Queen Bee
+173	Square Dance
+68	Dressing Up
+50	Cold Turkey
+24	Birthday Suit
+165	Scape Goat
+8	Backseat Driver
+62	Discussion
+124	Made Of Money
+6	Atmospheric
+139	Organized Crime
+52	Confidence
+129	Narrow Escape
+32	Buffalo Bills
+153	Problems
+56	Cowboys And Indians
+74	Elbow Grease
+90	Forgotten
+79	Expertise
+61	Dime A Dozen
+76	Embark On A Journey
+176	Stool Pigeon
+156	Push The Envelope
+36	Cabbage Patch Doll
+118	Learning The Hard Way
+172	Sometimes
+130	Need For Greater Safety
+189	Treason On The High Seas
+152	Potato Pancakes
+101	Horror Film
+93	Frontman
+84	Finger Licking Good
+188	To Bring Forth
+150	Play Hooky
+28	Borderline
+37	Call Of Duty
+92	French Toast
+167	Screw Loose
+65	Dog Days
+182	The Postman Rings Twice
+186	Time Flies
+64	Doctors Office
+3	American Express
+195	X Files
+18	Beaver Cleaver
+51	Coming Up Roses
+161	Richard Gere
+15	Batman And Robin
+27	Body Building
+177	Stop Complaining
+26	Blink Of An Eye
+170	Shooting Fish In A Barrel
+9	Banana Split
+72	Eat Crow
+11	Bar Mitzvah
+174	Steering Committee
+187	Tip Toe
+133	Not A Peep
+196	Bandsaw
+197	The Bare Essentials
+198	Doctor Pepper
+199	Lip Service
+200	Magic Carpet
+77	End Of The Line
+-1	*

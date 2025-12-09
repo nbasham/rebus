@@ -1,0 +1,67 @@
+"iosversion4.2" = "Requires iOS version 4.2";
+"twitter.requirement" = "Twitter requires iOS version 5";
+"printingNotAvailable" = "iOS is reporting that printing is not available";
+"gamecenternotfound" = "Game Center requires iOS version 4.1";
+"contacting.app.store" = "Contacting App Store...";
+"app.store.simulator" = "Simulator can't launch AppStore";
+
+/* Rebus */
+"rebus" = "The Rebus Show";
+"rebus.level.0" = "Novice";
+"rebus.level.1" = "Student";
+"rebus.level.2" = "Apprentice";
+"rebus.level.3" = "Professional";
+"rebus.level.4" = "Scholar";
+"rebus.level.5" = "Picture Perfect";
+"rebus.level.6" = "Intellectual";
+"rebus.level.7" = "Brainiac";
+"rebus.level.8" = "Puzzle Pro";
+"rebus.level.9" = "Puzzle Master";
+"rebus.level.10" = "Puzzle All-Star";
+"rebus.level.11" = "Puzzle Genius";
+
+"no.hint.available" = "No hints available yet";
+
+"request.rating.title" = "Rate us at iTunes";
+"request.rating.message.pad" = "Rating a product really helps! Will you help us by rating %@?";
+"request.rating.message.phone" = "Will you help us by giving %@ a rating?";
+"request.rating.option.yes" = "Sure";
+"request.rating.option.later" = "Remind me later";
+"request.rating.option.no" = "Don't ask me again";
+
+/* signs */
+"about.contactus.email.body" = "<br/>System Info:\t%@\t%@\t%@";
+"about.text" = "%@ Version %@\n\nProject Muse: Kelly Basham\nQuality Assurance: Joanne Varricchio\n\nCopyright 2012\nJames Cotner and Norman Basham";
+"stage.manager.sign.about.button.label" = "Contact Us";
+"stage.manager.sign.upgrade.button" = "Upgrade";
+"stage.manager.sign.later.button" = "Later";
+"stage.manager.sign.save.skip.button" = "Skip";
+"stage.manager.sign.save.resume.button" = "Resume";
+"stage.manager.sign.save.text" = "'Skip' this game if you want to try another puzzle. 'Resume' will restore this game when you return.";
+"stage.manager.sign.lesson.button.label" = "Got It";
+
+/* menu */
+"menu.play" = "Enter";
+"menu.puzzles" = "Puzzles";
+"menu.scores" = "Scores";
+"menu.help" = "Help";
+"menu.about" = "About";
+"menu.games" = "More Games";
+"menu.settings" = "Settings";
+
+/* play */
+"loading.puzzle" = "Loading your puzzle...";
+
+/* settings */
+"settings.sound.label" = "Sound Effects";
+"settings.music.volume.label" = "Music Volume";
+"settings.incorrect.label" = "Show Incorrect";
+"settings.tracking.label" = "Enable Usage Monitoring";
+
+/* solved */
+"solved.share" = "Share";
+"solved.next" = "Next";
+"solved.exit" = "Exit";
+"solved.email.subject" = "Picture Puzzle";
+"solved.email.body" = "Hello from <a href='http://itunes.apple.com/us/app/the-rebus-show/id506800979?mt=8'>The Rebus Show</a>:\n\n";
+
